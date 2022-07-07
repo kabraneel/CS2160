@@ -1,0 +1,4 @@
+Number of instructions executed = 91
+Number of cycles taken = 3384
+Number of ControlHazards taken = 8
+Number of DataHazards taken = 92
